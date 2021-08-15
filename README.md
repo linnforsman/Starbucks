@@ -14,3 +14,4 @@ Model performance:
 - **IRR** = 0.0187
 - **NIR** = 247.40
 ## Licensing, Authors Acknowledgements
+Data was provided by [Udacity](https://www.udacity.com) in collaboration with [Starbucks](https://www.starbucks.com/).
