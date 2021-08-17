@@ -1,5 +1,5 @@
 # Starbucks
-
+Optimizing promotion offers for Starbucks
 ## Installation
 The code should run with no issues on any system with a working Python 3 installation. If Anaconda is used, please see the libraries below required to run the notebook:
 1. imblearn.over_sampling
